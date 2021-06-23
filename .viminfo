@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1624423313,,"wq"
+|2,0,1624423963,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +25,58 @@
 # Registers:
 
 # File marks:
-'0  4  12  ~/employess.java
-|4,48,4,12,1624423313,"~/employess.java"
+'0  4  9  ~/wallmartproj/user.sh
+|4,48,4,9,1624423963,"~/wallmartproj/user.sh"
+'1  4  8  ~/deploy.sh
+|4,49,4,8,1624423768,"~/deploy.sh"
+'2  4  12  ~/employess.java
+|4,50,4,12,1624423313,"~/employess.java"
 
 # Jumplist (newest first):
+-'  4  9  ~/wallmartproj/user.sh
+|4,39,4,9,1624423963,"~/wallmartproj/user.sh"
+-'  1  0  ~/wallmartproj/user.sh
+|4,39,1,0,1624423945,"~/wallmartproj/user.sh"
+-'  4  8  ~/deploy.sh
+|4,39,4,8,1624423768,"~/deploy.sh"
+-'  4  8  ~/deploy.sh
+|4,39,4,8,1624423768,"~/deploy.sh"
+-'  1  0  ~/deploy.sh
+|4,39,1,0,1624423755,"~/deploy.sh"
+-'  1  0  ~/deploy.sh
+|4,39,1,0,1624423755,"~/deploy.sh"
+-'  4  12  ~/employess.java
+|4,39,4,12,1624423313,"~/employess.java"
+-'  4  12  ~/employess.java
+|4,39,4,12,1624423313,"~/employess.java"
+-'  4  12  ~/employess.java
+|4,39,4,12,1624423313,"~/employess.java"
 -'  4  12  ~/employess.java
 |4,39,4,12,1624423313,"~/employess.java"
 -'  1  0  ~/employess.java
 |4,39,1,0,1624423289,"~/employess.java"
+-'  1  0  ~/employess.java
+|4,39,1,0,1624423289,"~/employess.java"
+-'  1  0  ~/employess.java
+|4,39,1,0,1624423289,"~/employess.java"
+-'  1  0  ~/employess.java
+|4,39,1,0,1624423289,"~/employess.java"
 
 # History of marks within files (newest to oldest):
+
+> ~/wallmartproj/user.sh
+	*	1624423961	0
+	"	4	9
+	^	4	10
+	.	4	9
+	+	4	9
+
+> ~/deploy.sh
+	*	1624423766	0
+	"	4	8
+	^	4	9
+	.	4	8
+	+	4	8
 
 > ~/employess.java
 	*	1624423311	0
