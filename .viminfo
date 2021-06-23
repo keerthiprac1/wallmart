@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1624425098,,"wq"
+|2,0,1624425158,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,30 +25,48 @@
 # Registers:
 
 # File marks:
-'0  1  7  ~/sad
-|4,48,1,7,1624425098,"~/sad"
-'1  1  11  ~/happy
-|4,49,1,11,1624425087,"~/happy"
-'2  1  10  ~/test.txt
-|4,50,1,10,1624424977,"~/test.txt"
-'3  1  12  ~/hello.sh
-|4,51,1,12,1624424824,"~/hello.sh"
-'4  7  0  ~/users.java
-|4,52,7,0,1624424738,"~/users.java"
-'5  4  9  ~/wallmartproj/user.sh
-|4,53,4,9,1624423963,"~/wallmartproj/user.sh"
-'6  4  8  ~/deploy.sh
-|4,54,4,8,1624423768,"~/deploy.sh"
-'7  4  12  ~/employess.java
-|4,55,4,12,1624423313,"~/employess.java"
+'0  1  6  ~/shamama
+|4,48,1,6,1624425158,"~/shamama"
+'1  1  7  ~/sad
+|4,49,1,7,1624425098,"~/sad"
+'2  1  11  ~/happy
+|4,50,1,11,1624425087,"~/happy"
+'3  1  10  ~/test.txt
+|4,51,1,10,1624424977,"~/test.txt"
+'4  1  12  ~/hello.sh
+|4,52,1,12,1624424824,"~/hello.sh"
+'5  7  0  ~/users.java
+|4,53,7,0,1624424738,"~/users.java"
+'6  4  9  ~/wallmartproj/user.sh
+|4,54,4,9,1624423963,"~/wallmartproj/user.sh"
+'7  4  8  ~/deploy.sh
+|4,55,4,8,1624423768,"~/deploy.sh"
+'8  4  12  ~/employess.java
+|4,56,4,12,1624423313,"~/employess.java"
 
 # Jumplist (newest first):
+-'  1  6  ~/shamama
+|4,39,1,6,1624425158,"~/shamama"
+-'  1  7  ~/sad
+|4,39,1,7,1624425098,"~/sad"
 -'  1  7  ~/sad
 |4,39,1,7,1624425098,"~/sad"
 -'  1  11  ~/happy
 |4,39,1,11,1624425087,"~/happy"
 -'  1  11  ~/happy
 |4,39,1,11,1624425087,"~/happy"
+-'  1  11  ~/happy
+|4,39,1,11,1624425087,"~/happy"
+-'  1  11  ~/happy
+|4,39,1,11,1624425087,"~/happy"
+-'  1  10  ~/test.txt
+|4,39,1,10,1624424977,"~/test.txt"
+-'  1  10  ~/test.txt
+|4,39,1,10,1624424977,"~/test.txt"
+-'  1  10  ~/test.txt
+|4,39,1,10,1624424977,"~/test.txt"
+-'  1  10  ~/test.txt
+|4,39,1,10,1624424977,"~/test.txt"
 -'  1  10  ~/test.txt
 |4,39,1,10,1624424977,"~/test.txt"
 -'  1  10  ~/test.txt
@@ -73,6 +91,54 @@
 |4,39,1,12,1624424824,"~/hello.sh"
 -'  1  12  ~/hello.sh
 |4,39,1,12,1624424824,"~/hello.sh"
+-'  1  12  ~/hello.sh
+|4,39,1,12,1624424824,"~/hello.sh"
+-'  1  12  ~/hello.sh
+|4,39,1,12,1624424824,"~/hello.sh"
+-'  1  12  ~/hello.sh
+|4,39,1,12,1624424824,"~/hello.sh"
+-'  1  12  ~/hello.sh
+|4,39,1,12,1624424824,"~/hello.sh"
+-'  1  12  ~/hello.sh
+|4,39,1,12,1624424824,"~/hello.sh"
+-'  1  12  ~/hello.sh
+|4,39,1,12,1624424824,"~/hello.sh"
+-'  1  12  ~/hello.sh
+|4,39,1,12,1624424824,"~/hello.sh"
+-'  1  12  ~/hello.sh
+|4,39,1,12,1624424824,"~/hello.sh"
+-'  7  0  ~/users.java
+|4,39,7,0,1624424738,"~/users.java"
+-'  7  0  ~/users.java
+|4,39,7,0,1624424738,"~/users.java"
+-'  7  0  ~/users.java
+|4,39,7,0,1624424738,"~/users.java"
+-'  7  0  ~/users.java
+|4,39,7,0,1624424738,"~/users.java"
+-'  7  0  ~/users.java
+|4,39,7,0,1624424738,"~/users.java"
+-'  7  0  ~/users.java
+|4,39,7,0,1624424738,"~/users.java"
+-'  7  0  ~/users.java
+|4,39,7,0,1624424738,"~/users.java"
+-'  7  0  ~/users.java
+|4,39,7,0,1624424738,"~/users.java"
+-'  7  0  ~/users.java
+|4,39,7,0,1624424738,"~/users.java"
+-'  7  0  ~/users.java
+|4,39,7,0,1624424738,"~/users.java"
+-'  7  0  ~/users.java
+|4,39,7,0,1624424738,"~/users.java"
+-'  7  0  ~/users.java
+|4,39,7,0,1624424738,"~/users.java"
+-'  7  0  ~/users.java
+|4,39,7,0,1624424738,"~/users.java"
+-'  7  0  ~/users.java
+|4,39,7,0,1624424738,"~/users.java"
+-'  7  0  ~/users.java
+|4,39,7,0,1624424738,"~/users.java"
+-'  7  0  ~/users.java
+|4,39,7,0,1624424738,"~/users.java"
 -'  7  0  ~/users.java
 |4,39,7,0,1624424738,"~/users.java"
 -'  7  0  ~/users.java
@@ -137,6 +203,38 @@
 |4,39,1,0,1624424721,"~/users.java"
 -'  1  0  ~/users.java
 |4,39,1,0,1624424721,"~/users.java"
+-'  1  0  ~/users.java
+|4,39,1,0,1624424721,"~/users.java"
+-'  1  0  ~/users.java
+|4,39,1,0,1624424721,"~/users.java"
+-'  1  0  ~/users.java
+|4,39,1,0,1624424721,"~/users.java"
+-'  1  0  ~/users.java
+|4,39,1,0,1624424721,"~/users.java"
+-'  1  0  ~/users.java
+|4,39,1,0,1624424721,"~/users.java"
+-'  1  0  ~/users.java
+|4,39,1,0,1624424721,"~/users.java"
+-'  1  0  ~/users.java
+|4,39,1,0,1624424721,"~/users.java"
+-'  1  0  ~/users.java
+|4,39,1,0,1624424721,"~/users.java"
+-'  1  0  ~/users.java
+|4,39,1,0,1624424721,"~/users.java"
+-'  1  0  ~/users.java
+|4,39,1,0,1624424721,"~/users.java"
+-'  1  0  ~/users.java
+|4,39,1,0,1624424721,"~/users.java"
+-'  1  0  ~/users.java
+|4,39,1,0,1624424721,"~/users.java"
+-'  1  0  ~/users.java
+|4,39,1,0,1624424721,"~/users.java"
+-'  1  0  ~/users.java
+|4,39,1,0,1624424721,"~/users.java"
+-'  1  0  ~/users.java
+|4,39,1,0,1624424721,"~/users.java"
+-'  1  0  ~/users.java
+|4,39,1,0,1624424721,"~/users.java"
 -'  4  9  ~/wallmartproj/user.sh
 |4,39,4,9,1624423963,"~/wallmartproj/user.sh"
 -'  4  9  ~/wallmartproj/user.sh
@@ -147,104 +245,15 @@
 |4,39,4,9,1624423963,"~/wallmartproj/user.sh"
 -'  4  9  ~/wallmartproj/user.sh
 |4,39,4,9,1624423963,"~/wallmartproj/user.sh"
--'  4  9  ~/wallmartproj/user.sh
-|4,39,4,9,1624423963,"~/wallmartproj/user.sh"
--'  4  9  ~/wallmartproj/user.sh
-|4,39,4,9,1624423963,"~/wallmartproj/user.sh"
--'  4  9  ~/wallmartproj/user.sh
-|4,39,4,9,1624423963,"~/wallmartproj/user.sh"
--'  4  9  ~/wallmartproj/user.sh
-|4,39,4,9,1624423963,"~/wallmartproj/user.sh"
--'  4  9  ~/wallmartproj/user.sh
-|4,39,4,9,1624423963,"~/wallmartproj/user.sh"
--'  4  9  ~/wallmartproj/user.sh
-|4,39,4,9,1624423963,"~/wallmartproj/user.sh"
--'  4  9  ~/wallmartproj/user.sh
-|4,39,4,9,1624423963,"~/wallmartproj/user.sh"
--'  4  9  ~/wallmartproj/user.sh
-|4,39,4,9,1624423963,"~/wallmartproj/user.sh"
--'  4  9  ~/wallmartproj/user.sh
-|4,39,4,9,1624423963,"~/wallmartproj/user.sh"
--'  4  9  ~/wallmartproj/user.sh
-|4,39,4,9,1624423963,"~/wallmartproj/user.sh"
--'  4  9  ~/wallmartproj/user.sh
-|4,39,4,9,1624423963,"~/wallmartproj/user.sh"
--'  4  9  ~/wallmartproj/user.sh
-|4,39,4,9,1624423963,"~/wallmartproj/user.sh"
--'  4  9  ~/wallmartproj/user.sh
-|4,39,4,9,1624423963,"~/wallmartproj/user.sh"
--'  4  9  ~/wallmartproj/user.sh
-|4,39,4,9,1624423963,"~/wallmartproj/user.sh"
--'  4  9  ~/wallmartproj/user.sh
-|4,39,4,9,1624423963,"~/wallmartproj/user.sh"
--'  4  9  ~/wallmartproj/user.sh
-|4,39,4,9,1624423963,"~/wallmartproj/user.sh"
--'  4  9  ~/wallmartproj/user.sh
-|4,39,4,9,1624423963,"~/wallmartproj/user.sh"
--'  4  9  ~/wallmartproj/user.sh
-|4,39,4,9,1624423963,"~/wallmartproj/user.sh"
--'  4  9  ~/wallmartproj/user.sh
-|4,39,4,9,1624423963,"~/wallmartproj/user.sh"
--'  4  9  ~/wallmartproj/user.sh
-|4,39,4,9,1624423963,"~/wallmartproj/user.sh"
--'  4  9  ~/wallmartproj/user.sh
-|4,39,4,9,1624423963,"~/wallmartproj/user.sh"
--'  4  9  ~/wallmartproj/user.sh
-|4,39,4,9,1624423963,"~/wallmartproj/user.sh"
--'  4  9  ~/wallmartproj/user.sh
-|4,39,4,9,1624423963,"~/wallmartproj/user.sh"
--'  4  9  ~/wallmartproj/user.sh
-|4,39,4,9,1624423963,"~/wallmartproj/user.sh"
--'  4  9  ~/wallmartproj/user.sh
-|4,39,4,9,1624423963,"~/wallmartproj/user.sh"
--'  4  9  ~/wallmartproj/user.sh
-|4,39,4,9,1624423963,"~/wallmartproj/user.sh"
--'  4  9  ~/wallmartproj/user.sh
-|4,39,4,9,1624423963,"~/wallmartproj/user.sh"
--'  1  0  ~/wallmartproj/user.sh
-|4,39,1,0,1624423945,"~/wallmartproj/user.sh"
--'  1  0  ~/wallmartproj/user.sh
-|4,39,1,0,1624423945,"~/wallmartproj/user.sh"
--'  1  0  ~/wallmartproj/user.sh
-|4,39,1,0,1624423945,"~/wallmartproj/user.sh"
--'  1  0  ~/wallmartproj/user.sh
-|4,39,1,0,1624423945,"~/wallmartproj/user.sh"
--'  1  0  ~/wallmartproj/user.sh
-|4,39,1,0,1624423945,"~/wallmartproj/user.sh"
--'  1  0  ~/wallmartproj/user.sh
-|4,39,1,0,1624423945,"~/wallmartproj/user.sh"
--'  1  0  ~/wallmartproj/user.sh
-|4,39,1,0,1624423945,"~/wallmartproj/user.sh"
--'  1  0  ~/wallmartproj/user.sh
-|4,39,1,0,1624423945,"~/wallmartproj/user.sh"
--'  1  0  ~/wallmartproj/user.sh
-|4,39,1,0,1624423945,"~/wallmartproj/user.sh"
--'  1  0  ~/wallmartproj/user.sh
-|4,39,1,0,1624423945,"~/wallmartproj/user.sh"
--'  1  0  ~/wallmartproj/user.sh
-|4,39,1,0,1624423945,"~/wallmartproj/user.sh"
--'  1  0  ~/wallmartproj/user.sh
-|4,39,1,0,1624423945,"~/wallmartproj/user.sh"
--'  1  0  ~/wallmartproj/user.sh
-|4,39,1,0,1624423945,"~/wallmartproj/user.sh"
--'  1  0  ~/wallmartproj/user.sh
-|4,39,1,0,1624423945,"~/wallmartproj/user.sh"
--'  1  0  ~/wallmartproj/user.sh
-|4,39,1,0,1624423945,"~/wallmartproj/user.sh"
--'  1  0  ~/wallmartproj/user.sh
-|4,39,1,0,1624423945,"~/wallmartproj/user.sh"
--'  1  0  ~/wallmartproj/user.sh
-|4,39,1,0,1624423945,"~/wallmartproj/user.sh"
--'  1  0  ~/wallmartproj/user.sh
-|4,39,1,0,1624423945,"~/wallmartproj/user.sh"
--'  1  0  ~/wallmartproj/user.sh
-|4,39,1,0,1624423945,"~/wallmartproj/user.sh"
--'  1  0  ~/wallmartproj/user.sh
-|4,39,1,0,1624423945,"~/wallmartproj/user.sh"
--'  1  0  ~/wallmartproj/user.sh
-|4,39,1,0,1624423945,"~/wallmartproj/user.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/shamama
+	*	1624425156	0
+	"	1	6
+	^	1	7
+	.	1	6
+	+	1	6
 
 > ~/sad
 	*	1624425096	0
